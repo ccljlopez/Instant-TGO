@@ -1,14 +1,14 @@
 ### UAT1 Test Pages
 
-Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www1.uatcarnival.com/Registration/Promotions/InstantTgoTestOXX.aspx) page.
+Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www1.uatcarnival.com/Registration/Promotions/InstantTgoTestOXX.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
 
-Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www1.uatcarnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx) page.
+Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www1.uatcarnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
 
 ### UAT2 Test Pages
 
-Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www2.uatcarnival.com/Registration/Promotions/InstantTgoTestOXX.aspx) page.
+Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www2.uatcarnival.com/Registration/Promotions/InstantTgoTestOXX.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
 
-Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.uatcarnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx) page.
+Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.uatcarnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
 
 
 ### STG/PROD Test Pages
