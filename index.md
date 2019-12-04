@@ -13,7 +13,7 @@ Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.uatcarniva
 
 ### STG/PROD Test Pages
 
-Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www.carnival.com/Registration/Promotions/InstantTgoTestOXX.aspx) page.
+Go to the [CARNIVAL AFFILIATED OFFERS (OX1)](https://www.carnival.com/Registration/Promotions/InstantTgoTestOX1.aspx) page.
 
 Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www.carnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx) page.
 
