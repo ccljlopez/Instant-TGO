@@ -15,7 +15,5 @@ Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.uatcarniva
 
 Go to the [CARNIVAL AFFILIATED OFFERS (OX1)](https://www.carnival.com/Registration/Promotions/InstantTgoTestOX1.aspx) page.
 
-Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www.carnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx) page.
-
 ### For Devs Only
 Go to the [dev environment affiliate offer](https://dev.carnival.com/Registration/Promotions/Github-Affiliate).
