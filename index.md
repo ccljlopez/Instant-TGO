@@ -4,7 +4,7 @@ Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www2.nonprod.carnivalcloud.
 
 Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.nonprod.carnivalcloud.net/Registration/Promotions/InstantTgoTestOZZ.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
 
-### UAT2 Test Pages
+### PRE PROD 2 Test Pages
 
 Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www2.preprod.carnivalcloud.net/Registration/Promotions/InstantTgoTestOXX.aspx?CCL-UAT-Token=LjslWpUYT0CUBvSc9uKw9Q) page.
 
