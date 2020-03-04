@@ -6,9 +6,9 @@ Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.nonprod.ca
 
 ### UAT2 Test Pages
 
-Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www2.uatcarnival.com/Registration/Promotions/InstantTgoTestOXX.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
+Go to the [CARNIVAL AFFILIATED OFFERS (OXX)](https://www2.preprod.carnivalcloud.net/Registration/Promotions/InstantTgoTestOXX.aspx?CCL-UAT-Token=LjslWpUYT0CUBvSc9uKw9Q) page.
 
-Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.uatcarnival.com/Registration/Promotions/InstantTgoTestOZZ.aspx?CCL-UAT-Token=QTEwHhcNMTUwNTAxMTIxOTMwWhcNMTgwNTAxMTIxOTI4WjBtMQswCQYDVQQGEwJVUzELMAkGA1UECBMCRkwxDjAMBgNVBAcTBU1pYW1pM) page.
+Go to the [LAST MINUTE CARNIVAL AFFILIATED OFFERS (OZZ)](https://www2.preprod.carnivalcloud.net/Registration/Promotions/InstantTgoTestOZZ.aspx?CCL-UAT-Token=LjslWpUYT0CUBvSc9uKw9Q) page.
 
 
 ### STG/PROD Test Pages
